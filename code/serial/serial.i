@@ -57,7 +57,7 @@ LOG_HEX macro number,numberLen,feedNewLine,strPtr
 
 	LOG_STR \4,\2,\3
 
-.logHexNumberEnd:
+.logHexNumberEnd\@:
 	movem.l	(a7)+,d0-d3/a0
 endm
 
