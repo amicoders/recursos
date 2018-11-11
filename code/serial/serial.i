@@ -15,7 +15,7 @@ CHR_TAB				equ $09
 ; ------------------
 
 ; ----------------------------------------------------------------------------- 
-; NAME:	logHexNumber()															
+; NAME:	LOG_HEX
 ;																				
 ; DESC:	logs the hex representation of a number, optionally appending a new line
 ;																				
@@ -62,7 +62,7 @@ LOG_HEX macro number,numberLen,feedNewLine,strPtr
 endm
 
 ; ----------------------------------------------------------------------------- 
-; NAME:	logString()															
+; NAME:	LOG_STR
 ;																				
 ; DESC:	logs a string of the given length, optionally appending a new line
 ;																				
@@ -93,7 +93,7 @@ LOG_STR macro strPtr,strLen,feedNewLine
 endm
 
 ; ----------------------------------------------------------------------------- 
-; NAME:	logChar()															
+; NAME:	LOG_CHR
 ;																				
 ; DESC:	logs a char
 ;																				
