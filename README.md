@@ -24,5 +24,4 @@
 * [Documentos sobre algoritmos, efectos...](https://mikro.naprvyraz.sk/docs/index.htm)
 * [Mas sobre Algoritmos, efectos...](https://www.hugi.scene.org/online/coding/hugi%20se%204%20-%20index%20sorted%20by%20topic.htm)
 * [Blog de Tolkien sobre programación en Amiga](https://amigacoding.blogspot.com/)
-
-
+* [Introducción a C en Amiga](https://medium.com/@8bitsten/start-with-c-programming-on-amiga-1e8312cec2db)
