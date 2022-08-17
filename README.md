@@ -13,6 +13,7 @@
 
 * [Blog tutorial ASM y AMIGA](https://www.markwrobel.dk/project/amigamachinecode/)
 * [Tutorial ASM 68k](https://mrjester.hapisan.com/04_MC68/)
+* [Tutoriales en C para Amiga](http://www.pjhutchison.org/tutorial/amiga_c.html)
 
 ## Vídeos
 
